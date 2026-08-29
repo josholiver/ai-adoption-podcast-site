@@ -1,0 +1,82 @@
+{
+  "channel": {
+    "name": "The AI Adoption Podcast",
+    "handle": "@aiadoption-conversations",
+    "channelId": "UCvhxwtr4EYjAI5Oct2zy4Kg"
+  },
+  "updatedAt": "2026-08-30T00:00:00Z",
+  "episodes": [
+    {
+      "videoId": null,
+      "title": "Public sector AI can drive innovation or become another route to cost cutting",
+      "guestName": "Ash Thankey",
+      "guestRole": "AWS",
+      "duration": "30:43",
+      "publishedAt": "2026-08-24",
+      "description": "Ash argues AI is already reshaping public sector productivity, from benefit applications at the Department for Work and Pensions to the modernisation of legacy technology."
+    },
+    {
+      "videoId": null,
+      "title": "AI tools are driving new crimes and social behaviours, and policing is behind",
+      "guestName": "Claire Hammond",
+      "guestRole": "National Centre for Violence Against Women and Girls and Public Protection",
+      "duration": "29:53",
+      "publishedAt": "2026-08-17",
+      "description": "Claire sets out AI's growing role in frontline policing and where enforcement is struggling to keep pace."
+    },
+    {
+      "videoId": null,
+      "title": "AI adoption runs into the human bottleneck",
+      "guestName": "Chris Donahoe",
+      "guestRole": "Stillpoint",
+      "duration": "38:41",
+      "publishedAt": "2026-08-10",
+      "description": "Chris on agentic AI, the biological bottleneck, and the real constraints on adoption inside large organisations."
+    },
+    {
+      "videoId": null,
+      "title": "Knowledge is now a commodity, and agents removed the cap on it",
+      "guestName": "Leo Rogers",
+      "guestRole": "Co-founder & CEO, Curvo",
+      "duration": "32:27",
+      "publishedAt": "2026-08-03",
+      "description": "Leo on agentic AI, orchestration, and the end of specialist advantage as a competitive moat."
+    },
+    {
+      "videoId": null,
+      "title": "Sovereignty, trust and context are not three problems. They are interconnected",
+      "guestName": "Peeyush Aggarwal",
+      "guestRole": "Senior Partner, Deloitte",
+      "duration": "30:41",
+      "publishedAt": "2026-07-27",
+      "description": "Peeyush on AI sovereignty, trust, and the customer context that ties them together."
+    },
+    {
+      "videoId": null,
+      "title": "AI's proven, its value isn't",
+      "guestName": "Ed Thompson",
+      "guestRole": "SVP Market Strategy, Salesforce",
+      "duration": "28:24",
+      "publishedAt": "2026-07-20",
+      "description": "Ed on agentic AI adoption, token economics, and building a defensible AI business case."
+    },
+    {
+      "videoId": null,
+      "title": "The deflection trap in customer service AI",
+      "guestName": "Matt Price",
+      "guestRole": "Founder & CEO, Crescendo",
+      "duration": "29:48",
+      "publishedAt": "2026-07-13",
+      "description": "Matt on AI customer service, why deflection is the wrong metric, and what actually drives experience ROI."
+    },
+    {
+      "videoId": null,
+      "title": "The CEO AI avatar is a stupid idea",
+      "guestName": "André Lacroix",
+      "guestRole": "CEO, Intertek",
+      "duration": "37:51",
+      "publishedAt": "2026-07-06",
+      "description": "André on AI adoption, emotional intelligence, and what leadership actually looks like in the agentic era."
+    }
+  ]
+}
