@@ -65,7 +65,7 @@ function renderGrid(episodes) {
   grid.innerHTML = "";
 
   if (!episodes.length) {
-    grid.innerHTML = `<p class="episode-empty">No episodes yet — check back soon.</p>`;
+    grid.innerHTML = `<p class="episode-empty">No episodes in this season yet.</p>`;
     loadMoreBtn.hidden = true;
     return;
   }
@@ -83,6 +83,43 @@ function renderGrid(episodes) {
   loadMoreBtn.onclick = showNextPage;
 }
 
+function renderSeasonTabs(episodes) {
+  const tabsWrap = document.getElementById("season-tabs");
+  const seasons = [...new Set(episodes.map((ep) => ep.season).filter((s) => s != null))].sort((a, b) => b - a);
+
+  if (seasons.length <= 1) {
+    tabsWrap.hidden = true;
+    return episodes; // nothing to filter — just show everything
+  }
+
+  tabsWrap.hidden = false;
+  tabsWrap.innerHTML = "";
+
+  function makeTab(label, isActive, onClick) {
+    const btn = document.createElement("button");
+    btn.className = "season-tab";
+    btn.type = "button";
+    btn.role = "tab";
+    btn.setAttribute("aria-selected", String(isActive));
+    btn.textContent = label;
+    btn.addEventListener("click", () => {
+      tabsWrap.querySelectorAll(".season-tab").forEach((t) => t.setAttribute("aria-selected", "false"));
+      btn.setAttribute("aria-selected", "true");
+      onClick();
+    });
+    return btn;
+  }
+
+  tabsWrap.appendChild(makeTab("All episodes", true, () => renderGrid(episodes)));
+  seasons.forEach((season, i) => {
+    tabsWrap.appendChild(
+      makeTab(`Season ${season}`, false, () => renderGrid(episodes.filter((ep) => ep.season === season)))
+    );
+  });
+
+  return episodes;
+}
+
 async function init() {
   try {
     const res = await fetch("data/episodes.json", { cache: "no-store" });
@@ -90,7 +127,9 @@ async function init() {
     const episodes = (data.episodes || []).slice();
 
     renderHero(episodes[0]);
-    renderGrid(episodes.slice(1));
+    const rest = episodes.slice(1);
+    renderSeasonTabs(rest);
+    renderGrid(rest);
   } catch (err) {
     console.error("Could not load episodes.json", err);
     document.getElementById("episode-grid").innerHTML =

@@ -42,11 +42,12 @@ function parseFeed(xml) {
       title,
       description: description.split("\n")[0].slice(0, 220),
       publishedAt: published ? published.slice(0, 10) : null,
-      // Guest name/role aren't in the RSS feed. Keep any manual value already
+      // Guest name/role/season aren't in the RSS feed. Keep any manual value already
       // saved for this videoId; otherwise leave for manual/blog-linked fill-in.
       guestName: "",
       guestRole: "",
-      duration: ""
+      duration: "",
+      season: null
     };
   });
 }
@@ -80,7 +81,14 @@ async function main() {
   const merged = fetched.map((ep) => {
     const prev = byId.get(ep.videoId);
     return prev
-      ? { ...ep, guestName: prev.guestName, guestRole: prev.guestRole, duration: prev.duration, description: prev.description || ep.description }
+      ? {
+          ...ep,
+          guestName: prev.guestName,
+          guestRole: prev.guestRole,
+          duration: prev.duration,
+          season: prev.season ?? null,
+          description: prev.description || ep.description
+        }
       : ep;
   });
 
