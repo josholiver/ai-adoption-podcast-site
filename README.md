@@ -81,6 +81,27 @@ python3 -m http.server 8000
 
 Then open `http://localhost:8000`.
 
+## Swapping in real guest/platform logos
+
+The "Guests have included" strip and the platform links currently use **placeholder**
+files:
+
+- `assets/logos/aws.svg`, `deloitte.svg`, `salesforce.svg`, `intertek.svg`,
+  `crescendo.svg`, `fnality.svg` — plain text placeholders, not the companies'
+  actual logo artwork (I can't reproduce their trademarked logos myself).
+- `assets/platforms/watch.svg`, `listen.svg`, `mic.svg`, `network.svg` — generic
+  icons standing in for YouTube/Spotify/Apple Podcasts/LinkedIn.
+
+To get the real look from your reference screenshot, replace these files with the
+companies' own logo files (most brands publish these in a press/media kit page
+specifically for this kind of guest-attribution or "as seen on" use), keeping the
+same filenames. The CSS already applies a grayscale filter, so any logo you drop in
+will automatically match the muted, monochrome treatment — no extra styling needed.
+
+For the platform icons, Spotify, Apple Podcasts, and LinkedIn all publish official
+"Listen on..." / "Follow" badge assets on their brand-resources pages, built for
+exactly this purpose — swap those in the same way.
+
 ## Editing the design
 
 Everything for colors, spacing, and type lives in `css/style.css` as CSS custom

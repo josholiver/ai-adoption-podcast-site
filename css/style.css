@@ -168,6 +168,9 @@ a { color: inherit; }
 }
 
 .platform-row a {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
   font-size: 0.85rem;
   font-weight: 600;
   text-decoration: none;
@@ -177,10 +180,24 @@ a { color: inherit; }
   transition: border-color 0.15s ease, color 0.15s ease;
 }
 
+.platform-row a img {
+  width: 18px;
+  height: 18px;
+  opacity: 0.85;
+  filter: invert(94%) sepia(6%) saturate(300%) hue-rotate(340deg) brightness(103%);
+  transition: opacity 0.15s ease;
+}
+
 .platform-row a:hover,
 .platform-row a:focus-visible {
   border-color: var(--signal-coral);
   color: var(--signal-coral);
+}
+
+.platform-row a:hover img,
+.platform-row a:focus-visible img {
+  opacity: 1;
+  filter: invert(46%) sepia(46%) saturate(1467%) hue-rotate(337deg) brightness(90%) contrast(92%);
 }
 
 .hero-video {
@@ -217,34 +234,44 @@ a { color: inherit; }
 /* ---------- Guest strip ---------- */
 
 .guest-strip {
-  border-bottom: 1px solid var(--line);
-  padding: 30px 0;
+  background: var(--ink-navy);
+  padding: 46px 0 50px;
 }
 
 .guest-strip-label {
-  font-size: 0.72rem;
-  font-weight: 600;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-  color: var(--slate);
-  margin: 0 0 18px;
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 500;
+  font-size: 1.05rem;
+  text-align: center;
+  color: rgba(244, 241, 234, 0.85);
+  margin: 0 0 32px;
 }
 
 .guest-logos {
   display: flex;
   flex-wrap: wrap;
-  gap: 14px;
+  justify-content: center;
+  align-items: center;
+  gap: 40px 52px;
 }
 
-.guest-logos span {
-  font-family: var(--font-display);
-  font-weight: 600;
-  font-size: 0.95rem;
-  color: var(--ink-navy);
-  border: 1px solid var(--line);
-  border-radius: 3px;
-  padding: 8px 16px;
-  background: #fff;
+.guest-logos img {
+  height: 26px;
+  width: auto;
+  max-width: 140px;
+  object-fit: contain;
+  filter: grayscale(1) brightness(0) invert(1) opacity(0.55);
+  transition: filter 0.2s ease, opacity 0.2s ease;
+}
+
+.guest-logos img:hover {
+  filter: grayscale(1) brightness(0) invert(1) opacity(0.9);
+}
+
+@media (max-width: 640px) {
+  .guest-logos { gap: 28px 34px; }
+  .guest-logos img { height: 22px; }
 }
 
 /* ---------- Section shell ---------- */
@@ -547,12 +574,23 @@ a { color: inherit; }
 }
 
 .footer-links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
   text-decoration: none;
   color: rgba(244, 241, 234, 0.65);
   font-size: 0.85rem;
 }
 
+.footer-links a img {
+  width: 15px;
+  height: 15px;
+  opacity: 0.7;
+  filter: invert(94%) sepia(6%) saturate(300%) hue-rotate(340deg) brightness(103%);
+}
+
 .footer-links a:hover { color: var(--signal-coral); }
+.footer-links a:hover img { opacity: 1; filter: invert(46%) sepia(46%) saturate(1467%) hue-rotate(337deg) brightness(90%) contrast(92%); }
 
 /* ---------- Utility ---------- */
 
