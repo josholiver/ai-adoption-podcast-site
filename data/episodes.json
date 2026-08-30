@@ -4,87 +4,157 @@
     "handle": "@aiadoption-conversations",
     "channelId": "UCvhxwtr4EYjAI5Oct2zy4Kg"
   },
-  "updatedAt": "2026-08-30T00:00:00Z",
+  "updatedAt": "2026-08-30T01:15:48.870Z",
   "episodes": [
     {
-      "videoId": null,
-      "title": "Public sector AI can drive innovation or become another route to cost cutting",
-      "guestName": "Ash Thankey",
-      "guestRole": "AWS",
-      "duration": "30:43",
+      "videoId": "cIrSePliNok",
+      "title": "AI Advisers in the Workplace Will Reshape Culture, Ready or Not",
+      "description": "Human in the loop is the wrong way to think about AI, argues Kerri O'Neill, Chief People Officer at Ipsos and its Global AI Workforce Transformation Lead. A podcast conversation on AI adoption, organisational culture and",
+      "publishedAt": "2026-08-28",
+      "guestName": "",
+      "guestRole": "",
+      "duration": "",
+      "season": null
+    },
+    {
+      "videoId": "9WiJwFJOP04",
+      "title": "The best AI model depends on the task.",
+      "description": "Ash Thankey explains why organisations may use different AI models for different applications, including choosing between capability and cost.",
+      "publishedAt": "2026-08-26",
+      "guestName": "",
+      "guestRole": "",
+      "duration": "",
+      "season": null
+    },
+    {
+      "videoId": "zLCTlX_T5Jg",
+      "title": "64 per cent of UK organisations now use AI.",
+      "description": "Ash Thankey discusses the pace of AI adoption and its implications for UK productivity.",
+      "publishedAt": "2026-08-25",
+      "guestName": "",
+      "guestRole": "",
+      "duration": "",
+      "season": null
+    },
+    {
+      "videoId": "JVeIu8JtbXw",
+      "title": "AI could create a new generation of entrepreneurs.",
+      "description": "Ash Thankey of AWS argues that AI coding tools are lowering technical barriers to creating applications and launching businesses.",
       "publishedAt": "2026-08-24",
-      "description": "Ash argues AI is already reshaping public sector productivity, from benefit applications at the Department for Work and Pensions to the modernisation of legacy technology.",
-      "season": 1
+      "guestName": "",
+      "guestRole": "",
+      "duration": "",
+      "season": null
     },
     {
-      "videoId": null,
-      "title": "AI tools are driving new crimes and social behaviours, and policing is behind",
-      "guestName": "Claire Hammond",
-      "guestRole": "National Centre for Violence Against Women and Girls and Public Protection",
-      "duration": "29:53",
-      "publishedAt": "2026-08-17",
-      "description": "Claire sets out AI's growing role in frontline policing and where enforcement is struggling to keep pace.",
-      "season": 1
+      "videoId": "4dubPKlbQl4",
+      "title": "Criminals use AI daily. Policing is racing to keep up.",
+      "description": "Offenders are using AI to commit new kinds of crime that change day by day. Claire Hammond of the National Centre for Violence Against Women and Girls and Public Protection sets out AI for good, using the same accelerati",
+      "publishedAt": "2026-08-23",
+      "guestName": "",
+      "guestRole": "",
+      "duration": "",
+      "season": null
     },
     {
-      "videoId": null,
-      "title": "AI adoption runs into the human bottleneck",
-      "guestName": "Chris Donahoe",
-      "guestRole": "Stillpoint",
-      "duration": "38:41",
+      "videoId": "FDDDoDwIihE",
+      "title": "AI writes the shift handover so nothing gets missed.",
+      "description": "Officers work shifts, and cases pass hands at 7am. M pulls the key information from an investigation into a clear handover, so a victim does not fall into the gap and a tired officer does not miss a detail. Claire Hammon",
+      "publishedAt": "2026-08-22",
+      "guestName": "",
+      "guestRole": "",
+      "duration": "",
+      "season": null
+    },
+    {
+      "videoId": "e-AXMDoFnH4",
+      "title": "AI that spots coercive control behind a single offence.",
+      "description": "M, the NCVPP’s closed AI agent, can prompt an officer to consider coercive control, stalking or a wider pattern of domestic abuse from the way a question is asked. Claire Hammond of the National Centre for Violence Again",
+      "publishedAt": "2026-08-21",
+      "guestName": "",
+      "guestRole": "",
+      "duration": "",
+      "season": null
+    },
+    {
+      "videoId": "-IQDVI5-8A0",
+      "title": "A closed AI agent now answers frontline officers instantly.",
+      "description": "M sits inside the NCVPP toolkit and gives officers one national answer at the click of a button, on online harms, non-consensual intimate images and spiking. Claire Hammond of the National Centre for Violence Against Wom",
+      "publishedAt": "2026-08-20",
+      "guestName": "",
+      "guestRole": "",
+      "duration": "",
+      "season": null
+    },
+    {
+      "videoId": "8Mi9F_QDly8",
+      "title": "Public sector AI can drive innovation or become another route to cost cutting.",
+      "description": "Ash Thankey of AWS joins the podcast to discuss AI adoption, productivity and public services.",
+      "publishedAt": "2026-08-20",
+      "guestName": "",
+      "guestRole": "",
+      "duration": "",
+      "season": null
+    },
+    {
+      "videoId": "5jA1zlMbIP8",
+      "title": "AI Tools Drive New Crimes and Social Behaviours, and Policing Is Behind",
+      "description": "An AI agent now flags newer forms of domestic abuse and other crimes that an officer can miss. On The AI Adoption Podcast, Claire Hammond of the National Centre for Violence Against Women and Girls and Public Protection ",
+      "publishedAt": "2026-08-13",
+      "guestName": "",
+      "guestRole": "",
+      "duration": "",
+      "season": null
+    },
+    {
+      "videoId": "u_PWkwdt7r0",
+      "title": "Focus human effort on the first mile and the last mile",
+      "description": "Spend your attention where the workflow actually creates value.",
+      "publishedAt": "2026-08-11",
+      "guestName": "",
+      "guestRole": "",
+      "duration": "",
+      "season": null
+    },
+    {
+      "videoId": "DF12rrAXoY0",
+      "title": "Building AI native means destroying assumptions",
+      "description": "An AI native company starts by questioning why you work this way.",
+      "publishedAt": "2026-08-11",
+      "guestName": "",
+      "guestRole": "",
+      "duration": "",
+      "season": null
+    },
+    {
+      "videoId": "aGzuTnkQ-vM",
+      "title": "The biological bottleneck",
+      "description": "Agents produce faster than any human can review it.",
       "publishedAt": "2026-08-10",
-      "description": "Chris on agentic AI, the biological bottleneck, and the real constraints on adoption inside large organisations.",
-      "season": 1
+      "guestName": "",
+      "guestRole": "",
+      "duration": "",
+      "season": null
     },
     {
-      "videoId": null,
-      "title": "Knowledge is now a commodity, and agents removed the cap on it",
-      "guestName": "Leo Rogers",
-      "guestRole": "Co-founder & CEO, Curvo",
-      "duration": "32:27",
-      "publishedAt": "2026-08-03",
-      "description": "Leo on agentic AI, orchestration, and the end of specialist advantage as a competitive moat.",
-      "season": 1
+      "videoId": "HjWn1qKKDZE",
+      "title": "The three skills that command a premium",
+      "description": "Three skills now decide your value in an AI economy.",
+      "publishedAt": "2026-08-07",
+      "guestName": "",
+      "guestRole": "",
+      "duration": "",
+      "season": null
     },
     {
-      "videoId": null,
-      "title": "Sovereignty, trust and context are not three problems. They are interconnected",
-      "guestName": "Peeyush Aggarwal",
-      "guestRole": "Senior Partner, Deloitte",
-      "duration": "30:41",
-      "publishedAt": "2026-07-27",
-      "description": "Peeyush on AI sovereignty, trust, and the customer context that ties them together.",
-      "season": 1
-    },
-    {
-      "videoId": null,
-      "title": "AI's proven, its value isn't",
-      "guestName": "Ed Thompson",
-      "guestRole": "SVP Market Strategy, Salesforce",
-      "duration": "28:24",
-      "publishedAt": "2026-07-20",
-      "description": "Ed on agentic AI adoption, token economics, and building a defensible AI business case.",
-      "season": 1
-    },
-    {
-      "videoId": null,
-      "title": "The deflection trap in customer service AI",
-      "guestName": "Matt Price",
-      "guestRole": "Founder & CEO, Crescendo",
-      "duration": "29:48",
-      "publishedAt": "2026-07-13",
-      "description": "Matt on AI customer service, why deflection is the wrong metric, and what actually drives experience ROI.",
-      "season": 1
-    },
-    {
-      "videoId": null,
-      "title": "The CEO AI avatar is a stupid idea",
-      "guestName": "Andr\u00e9 Lacroix",
-      "guestRole": "CEO, Intertek",
-      "duration": "37:51",
-      "publishedAt": "2026-07-06",
-      "description": "Andr\u00e9 on AI adoption, emotional intelligence, and what leadership actually looks like in the agentic era.",
-      "season": 1
+      "videoId": "Hj46slvkvk4",
+      "title": "Agents will start hiring humans, not the reverse.",
+      "description": "Agents buying from agents replaces humans buying from humans.",
+      "publishedAt": "2026-08-06",
+      "guestName": "",
+      "guestRole": "",
+      "duration": "",
+      "season": null
     }
   ]
 }
