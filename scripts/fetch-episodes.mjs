@@ -42,8 +42,6 @@ function parseFeed(xml) {
       title,
       description: description.split("\n")[0].slice(0, 220),
       publishedAt: published ? published.slice(0, 10) : null,
-      // Guest name/role/season aren't in the RSS feed. Keep any manual value already
-      // saved for this videoId; otherwise leave for manual/blog-linked fill-in.
       guestName: "",
       guestRole: "",
       duration: "",
@@ -54,7 +52,14 @@ function parseFeed(xml) {
 
 async function main() {
   const res = await fetch(FEED_URL, {
-    headers: { "User-Agent": "Mozilla/5.0 (compatible; AIAdoptionPodcastBot/1.0)" }
+    headers: {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+      "Accept": "application/xml,text/xml,*/*",
+      "Accept-Language": "en-US,en;q=0.9",
+      // Avoids the EU/region cookie-consent interstitial some Google
+      // properties return instead of the feed for cookie-less requests.
+      "Cookie": "CONSENT=YES+cb; SOCS=CAI"
+    }
   });
 
   if (!res.ok) {
@@ -62,14 +67,25 @@ async function main() {
   }
 
   const xml = await res.text();
+
+  if (!xml.trim().startsWith("<?xml") && !xml.includes("<feed")) {
+    console.error("Response did not look like the YouTube Atom feed. First 500 chars:");
+    console.error(xml.slice(0, 500));
+    throw new Error(
+      "YouTube did not return the expected RSS/Atom feed (got HTML or an empty body instead). " +
+      "See the logged snippet above for what was actually returned."
+    );
+  }
+
   const fetched = parseFeed(xml);
 
   if (fetched.length === 0) {
-    console.warn("No entries parsed from feed — leaving existing episodes.json untouched.");
-    return;
+    throw new Error(
+      "Fetched the feed successfully but parsed zero <entry> blocks from it — " +
+      "the feed's structure may have changed. Inspect the raw feed content to debug."
+    );
   }
 
-  // Preserve hand-edited guest name/role/duration for videos we already know about.
   let existing = { episodes: [] };
   try {
     existing = JSON.parse(await readFile(OUTPUT_PATH, "utf-8"));
