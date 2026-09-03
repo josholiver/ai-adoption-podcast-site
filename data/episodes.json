@@ -4,8 +4,28 @@
     "handle": "@aiadoption-conversations",
     "channelId": "UCvhxwtr4EYjAI5Oct2zy4Kg"
   },
-  "updatedAt": "2026-09-02T10:51:54.530Z",
+  "updatedAt": "2026-09-03T10:51:35.021Z",
   "episodes": [
+    {
+      "videoId": "8KQvnsPsU4k",
+      "title": "Rethinking, Reimagining is The AI Leadership Test",
+      "description": "AI could erase the competitive edge that made your organisation win. On The AI Adoption Podcast, Vilas Dhar, President of the Patrick J. McGovern Foundation, explains why leaders, not tools, decide the outcome of enterpr",
+      "publishedAt": "2026-09-03",
+      "guestName": "",
+      "guestRole": "",
+      "duration": "",
+      "season": null
+    },
+    {
+      "videoId": "dT4O21PDXsU",
+      "title": "Old change models break when you try to change culture.",
+      "description": "Old change models break when you try to change culture.",
+      "publishedAt": "2026-09-02",
+      "guestName": "",
+      "guestRole": "",
+      "duration": "",
+      "season": null
+    },
     {
       "videoId": "mfwL2pMgeQs",
       "title": "Trust decides whether AI adoption works, long before productivity does.",
@@ -131,26 +151,6 @@
       "title": "Building AI native means destroying assumptions",
       "description": "An AI native company starts by questioning why you work this way.",
       "publishedAt": "2026-08-11",
-      "guestName": "",
-      "guestRole": "",
-      "duration": "",
-      "season": null
-    },
-    {
-      "videoId": "aGzuTnkQ-vM",
-      "title": "The biological bottleneck",
-      "description": "Agents produce faster than any human can review it.",
-      "publishedAt": "2026-08-10",
-      "guestName": "",
-      "guestRole": "",
-      "duration": "",
-      "season": null
-    },
-    {
-      "videoId": "HjWn1qKKDZE",
-      "title": "The three skills that command a premium",
-      "description": "Three skills now decide your value in an AI economy.",
-      "publishedAt": "2026-08-07",
       "guestName": "",
       "guestRole": "",
       "duration": "",
