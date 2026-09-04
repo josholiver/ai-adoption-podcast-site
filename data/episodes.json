@@ -4,8 +4,18 @@
     "handle": "@aiadoption-conversations",
     "channelId": "UCvhxwtr4EYjAI5Oct2zy4Kg"
   },
-  "updatedAt": "2026-09-03T10:51:35.021Z",
+  "updatedAt": "2026-09-04T10:51:05.132Z",
   "episodes": [
+    {
+      "videoId": "_LPlIMmRJSY",
+      "title": "Humans and AI are not two separate teams at work.",
+      "description": "Humans and AI are not two separate teams at work.",
+      "publishedAt": "2026-09-03",
+      "guestName": "",
+      "guestRole": "",
+      "duration": "",
+      "season": null
+    },
     {
       "videoId": "8KQvnsPsU4k",
       "title": "Rethinking, Reimagining is The AI Leadership Test",
@@ -140,16 +150,6 @@
       "videoId": "u_PWkwdt7r0",
       "title": "Focus human effort on the first mile and the last mile",
       "description": "Spend your attention where the workflow actually creates value.",
-      "publishedAt": "2026-08-11",
-      "guestName": "",
-      "guestRole": "",
-      "duration": "",
-      "season": null
-    },
-    {
-      "videoId": "DF12rrAXoY0",
-      "title": "Building AI native means destroying assumptions",
-      "description": "An AI native company starts by questioning why you work this way.",
       "publishedAt": "2026-08-11",
       "guestName": "",
       "guestRole": "",
