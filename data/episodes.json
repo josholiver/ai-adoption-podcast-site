@@ -4,8 +4,18 @@
     "handle": "@aiadoption-conversations",
     "channelId": "UCvhxwtr4EYjAI5Oct2zy4Kg"
   },
-  "updatedAt": "2026-09-04T10:51:05.132Z",
+  "updatedAt": "2026-09-05T10:09:33.069Z",
   "episodes": [
+    {
+      "videoId": "bLA7QSSF5tM",
+      "title": "One vision: blend human and AI into a single intelligence.",
+      "description": "One vision: blend human and AI into a single intelligence.",
+      "publishedAt": "2026-09-04",
+      "guestName": "",
+      "guestRole": "",
+      "duration": "",
+      "season": null
+    },
     {
       "videoId": "_LPlIMmRJSY",
       "title": "Humans and AI are not two separate teams at work.",
@@ -141,16 +151,6 @@
       "title": "AI Tools Drive New Crimes and Social Behaviours, and Policing Is Behind",
       "description": "An AI agent now flags newer forms of domestic abuse and other crimes that an officer can miss. On The AI Adoption Podcast, Claire Hammond of the National Centre for Violence Against Women and Girls and Public Protection ",
       "publishedAt": "2026-08-13",
-      "guestName": "",
-      "guestRole": "",
-      "duration": "",
-      "season": null
-    },
-    {
-      "videoId": "u_PWkwdt7r0",
-      "title": "Focus human effort on the first mile and the last mile",
-      "description": "Spend your attention where the workflow actually creates value.",
-      "publishedAt": "2026-08-11",
       "guestName": "",
       "guestRole": "",
       "duration": "",
