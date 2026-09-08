@@ -4,8 +4,18 @@
     "handle": "@aiadoption-conversations",
     "channelId": "UCvhxwtr4EYjAI5Oct2zy4Kg"
   },
-  "updatedAt": "2026-09-07T11:52:50.161Z",
+  "updatedAt": "2026-09-08T10:49:48.201Z",
   "episodes": [
+    {
+      "videoId": "wKWK_THGUvM",
+      "title": "The choice between iterating and transforming",
+      "description": "Minor efficiencies will not transform your business. AI might. Vilas Dhar, President of the Patrick J. McGovern Foundation, argues that firms face a real choice: iterate the model they have, or question its founding assu",
+      "publishedAt": "2026-09-07",
+      "guestName": "",
+      "guestRole": "",
+      "duration": "",
+      "season": null
+    },
     {
       "videoId": "bLA7QSSF5tM",
       "title": "One vision: blend human and AI into a single intelligence.",
@@ -141,16 +151,6 @@
       "title": "Public sector AI can drive innovation or become another route to cost cutting.",
       "description": "Ash Thankey of AWS joins the podcast to discuss AI adoption, productivity and public services.",
       "publishedAt": "2026-08-20",
-      "guestName": "",
-      "guestRole": "",
-      "duration": "",
-      "season": null
-    },
-    {
-      "videoId": "5jA1zlMbIP8",
-      "title": "AI Tools Drive New Crimes and Social Behaviours, and Policing Is Behind",
-      "description": "An AI agent now flags newer forms of domestic abuse and other crimes that an officer can miss. On The AI Adoption Podcast, Claire Hammond of the National Centre for Violence Against Women and Girls and Public Protection ",
-      "publishedAt": "2026-08-13",
       "guestName": "",
       "guestRole": "",
       "duration": "",
