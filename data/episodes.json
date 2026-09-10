@@ -4,8 +4,18 @@
     "handle": "@aiadoption-conversations",
     "channelId": "UCvhxwtr4EYjAI5Oct2zy4Kg"
   },
-  "updatedAt": "2026-09-09T10:55:46.967Z",
+  "updatedAt": "2026-09-10T10:52:20.905Z",
   "episodes": [
+    {
+      "videoId": "aZFkuXL25-M",
+      "title": "Two pathways, and only one reimagines the business",
+      "description": "Two paths for AI adoption, and only one reimagines the business. Vilas Dhar, President of the Patrick J. McGovern Foundation, contrasts using AI to do the same work faster with using it to rethink what value you create a",
+      "publishedAt": "2026-09-09",
+      "guestName": "",
+      "guestRole": "",
+      "duration": "",
+      "season": null
+    },
     {
       "videoId": "ZMC9bKcbJac",
       "title": "Leadership stays a human function",
@@ -141,16 +151,6 @@
       "title": "AI that spots coercive control behind a single offence.",
       "description": "M, the NCVPP’s closed AI agent, can prompt an officer to consider coercive control, stalking or a wider pattern of domestic abuse from the way a question is asked. Claire Hammond of the National Centre for Violence Again",
       "publishedAt": "2026-08-21",
-      "guestName": "",
-      "guestRole": "",
-      "duration": "",
-      "season": null
-    },
-    {
-      "videoId": "-IQDVI5-8A0",
-      "title": "A closed AI agent now answers frontline officers instantly.",
-      "description": "M sits inside the NCVPP toolkit and gives officers one national answer at the click of a button, on online harms, non-consensual intimate images and spiking. Claire Hammond of the National Centre for Violence Against Wom",
-      "publishedAt": "2026-08-20",
       "guestName": "",
       "guestRole": "",
       "duration": "",
