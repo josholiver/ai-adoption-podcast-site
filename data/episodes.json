@@ -4,8 +4,28 @@
     "handle": "@aiadoption-conversations",
     "channelId": "UCvhxwtr4EYjAI5Oct2zy4Kg"
   },
-  "updatedAt": "2026-09-10T10:52:20.905Z",
+  "updatedAt": "2026-09-11T10:48:51.986Z",
   "episodes": [
+    {
+      "videoId": "OqYK5eLnDwI",
+      "title": "Organisation Spaghettification is the Barrier to Enterprise AI Adoption",
+      "description": "A database holds ‘what happened’, never the decisions behind it. Dhiraj Rajaram, founder and CEO of Mu Sigma, joins The AI Adoption Podcast on enterprise AI, decision sciences and agentic AI.",
+      "publishedAt": "2026-09-11",
+      "guestName": "",
+      "guestRole": "",
+      "duration": "",
+      "season": null
+    },
+    {
+      "videoId": "EITqC1mZsfM",
+      "title": "The courage to step out of the crowd",
+      "description": "The crowd feels safe. That is exactly the risk. Vilas Dhar, President of the Patrick J. McGovern Foundation, urges senior leaders to keep the capacity to step out of the flow and ask whether the direction everyone is run",
+      "publishedAt": "2026-09-10",
+      "guestName": "",
+      "guestRole": "",
+      "duration": "",
+      "season": null
+    },
     {
       "videoId": "aZFkuXL25-M",
       "title": "Two pathways, and only one reimagines the business",
@@ -131,26 +151,6 @@
       "title": "Criminals use AI daily. Policing is racing to keep up.",
       "description": "Offenders are using AI to commit new kinds of crime that change day by day. Claire Hammond of the National Centre for Violence Against Women and Girls and Public Protection sets out AI for good, using the same accelerati",
       "publishedAt": "2026-08-23",
-      "guestName": "",
-      "guestRole": "",
-      "duration": "",
-      "season": null
-    },
-    {
-      "videoId": "FDDDoDwIihE",
-      "title": "AI writes the shift handover so nothing gets missed.",
-      "description": "Officers work shifts, and cases pass hands at 7am. M pulls the key information from an investigation into a clear handover, so a victim does not fall into the gap and a tired officer does not miss a detail. Claire Hammon",
-      "publishedAt": "2026-08-22",
-      "guestName": "",
-      "guestRole": "",
-      "duration": "",
-      "season": null
-    },
-    {
-      "videoId": "e-AXMDoFnH4",
-      "title": "AI that spots coercive control behind a single offence.",
-      "description": "M, the NCVPP’s closed AI agent, can prompt an officer to consider coercive control, stalking or a wider pattern of domestic abuse from the way a question is asked. Claire Hammond of the National Centre for Violence Again",
-      "publishedAt": "2026-08-21",
       "guestName": "",
       "guestRole": "",
       "duration": "",
