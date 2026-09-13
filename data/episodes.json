@@ -4,8 +4,18 @@
     "handle": "@aiadoption-conversations",
     "channelId": "UCvhxwtr4EYjAI5Oct2zy4Kg"
   },
-  "updatedAt": "2026-09-12T10:17:35.296Z",
+  "updatedAt": "2026-09-13T11:17:51.440Z",
   "episodes": [
+    {
+      "videoId": "m4jXii9jYh4",
+      "title": "unaddressed complexity",
+      "description": "Unaddressed complexity is blocking enterprise AI. Dhiraj Rajaram, founder and CEO of Mu Sigma, describes what decades of markets, geographies and acquisitions leave behind: data in silos, conversations that do not persis",
+      "publishedAt": "2026-09-12",
+      "guestName": "",
+      "guestRole": "",
+      "duration": "",
+      "season": null
+    },
     {
       "videoId": "OqYK5eLnDwI",
       "title": "Organisation Spaghettification is the Barrier to Enterprise AI Adoption",
@@ -141,16 +151,6 @@
       "title": "AI could create a new generation of entrepreneurs.",
       "description": "Ash Thankey of AWS argues that AI coding tools are lowering technical barriers to creating applications and launching businesses.",
       "publishedAt": "2026-08-24",
-      "guestName": "",
-      "guestRole": "",
-      "duration": "",
-      "season": null
-    },
-    {
-      "videoId": "4dubPKlbQl4",
-      "title": "Criminals use AI daily. Policing is racing to keep up.",
-      "description": "Offenders are using AI to commit new kinds of crime that change day by day. Claire Hammond of the National Centre for Violence Against Women and Girls and Public Protection sets out AI for good, using the same accelerati",
-      "publishedAt": "2026-08-23",
       "guestName": "",
       "guestRole": "",
       "duration": "",
