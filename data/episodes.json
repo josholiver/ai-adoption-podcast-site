@@ -4,8 +4,18 @@
     "handle": "@aiadoption-conversations",
     "channelId": "UCvhxwtr4EYjAI5Oct2zy4Kg"
   },
-  "updatedAt": "2026-09-13T11:17:51.440Z",
+  "updatedAt": "2026-09-14T12:08:21.403Z",
   "episodes": [
+    {
+      "videoId": "zIDEko_s1I8",
+      "title": "perception, decision, action",
+      "description": "Transformation runs on a loop few leaders name. Dhiraj Rajaram, founder and CEO of Mu Sigma, sets out three linked stages: perceptions that shape intentions, decisions where intelligence forms, and actions where initiati",
+      "publishedAt": "2026-09-14",
+      "guestName": "",
+      "guestRole": "",
+      "duration": "",
+      "season": null
+    },
     {
       "videoId": "m4jXii9jYh4",
       "title": "unaddressed complexity",
@@ -141,16 +151,6 @@
       "title": "64 per cent of UK organisations now use AI.",
       "description": "Ash Thankey discusses the pace of AI adoption and its implications for UK productivity.",
       "publishedAt": "2026-08-25",
-      "guestName": "",
-      "guestRole": "",
-      "duration": "",
-      "season": null
-    },
-    {
-      "videoId": "JVeIu8JtbXw",
-      "title": "AI could create a new generation of entrepreneurs.",
-      "description": "Ash Thankey of AWS argues that AI coding tools are lowering technical barriers to creating applications and launching businesses.",
-      "publishedAt": "2026-08-24",
       "guestName": "",
       "guestRole": "",
       "duration": "",
