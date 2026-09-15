@@ -4,8 +4,18 @@
     "handle": "@aiadoption-conversations",
     "channelId": "UCvhxwtr4EYjAI5Oct2zy4Kg"
   },
-  "updatedAt": "2026-09-14T12:08:21.403Z",
+  "updatedAt": "2026-09-15T11:19:39.720Z",
   "episodes": [
+    {
+      "videoId": "Fz3BXNYnJkA",
+      "title": "the big D is decisions",
+      "description": "Data is not the real challenge for AI. Decisions are. Dhiraj Rajaram, founder and CEO of Mu Sigma, defines a good decision as an optimisation between truth, how close your representation is to reality, and time, how quic",
+      "publishedAt": "2026-09-15",
+      "guestName": "",
+      "guestRole": "",
+      "duration": "",
+      "season": null
+    },
     {
       "videoId": "zIDEko_s1I8",
       "title": "perception, decision, action",
@@ -141,16 +151,6 @@
       "title": "The best AI model depends on the task.",
       "description": "Ash Thankey explains why organisations may use different AI models for different applications, including choosing between capability and cost.",
       "publishedAt": "2026-08-26",
-      "guestName": "",
-      "guestRole": "",
-      "duration": "",
-      "season": null
-    },
-    {
-      "videoId": "zLCTlX_T5Jg",
-      "title": "64 per cent of UK organisations now use AI.",
-      "description": "Ash Thankey discusses the pace of AI adoption and its implications for UK productivity.",
-      "publishedAt": "2026-08-25",
       "guestName": "",
       "guestRole": "",
       "duration": "",
