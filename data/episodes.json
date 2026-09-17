@@ -4,8 +4,18 @@
     "handle": "@aiadoption-conversations",
     "channelId": "UCvhxwtr4EYjAI5Oct2zy4Kg"
   },
-  "updatedAt": "2026-09-16T11:02:29.262Z",
+  "updatedAt": "2026-09-17T11:12:48.657Z",
   "episodes": [
+    {
+      "videoId": "LuRPt7c11-g",
+      "title": "Link Strategic AI Governance to Everyday Customer Trust | Dr Paul Dongha | NatWest",
+      "description": "NatWest holds every AI system to the EU AI Act standard worldwide, even where local law does not demand it.",
+      "publishedAt": "2026-09-17",
+      "guestName": "",
+      "guestRole": "",
+      "duration": "",
+      "season": null
+    },
     {
       "videoId": "PiBuyqVzI9g",
       "title": "context as a field",
@@ -141,16 +151,6 @@
       "title": "Trust decides whether AI adoption works, long before productivity does.",
       "description": "Trust decides whether AI adoption works, long before productivity does.",
       "publishedAt": "2026-09-01",
-      "guestName": "",
-      "guestRole": "",
-      "duration": "",
-      "season": null
-    },
-    {
-      "videoId": "cIrSePliNok",
-      "title": "AI Advisers in the Workplace Will Reshape Culture, Ready or Not",
-      "description": "Human in the loop is the wrong way to think about AI, argues Kerri O'Neill, Chief People Officer at Ipsos and its Global AI Workforce Transformation Lead. A podcast conversation on AI adoption, organisational culture and",
-      "publishedAt": "2026-08-28",
       "guestName": "",
       "guestRole": "",
       "duration": "",
