@@ -4,8 +4,18 @@
     "handle": "@aiadoption-conversations",
     "channelId": "UCvhxwtr4EYjAI5Oct2zy4Kg"
   },
-  "updatedAt": "2026-10-20T11:05:35.994Z",
+  "updatedAt": "2026-10-21T11:21:41.607Z",
   "episodes": [
+    {
+      "videoId": "u8jJ6zx3KaQ",
+      "title": "Location decides which repair comes first.",
+      "description": "Dino Ravnić, Co-founder and CEO of GIS Cloud, explains repair prioritisation by proximity: hydrants and other infrastructure ranked by closeness to schools, hospitals and homes for elderly people, and by how many people ",
+      "publishedAt": "2026-10-21",
+      "guestName": "",
+      "guestRole": "",
+      "duration": "",
+      "season": null
+    },
     {
       "videoId": "TWnbQDU7Gnk",
       "title": "AI needs a query layer, not your entire dataset.",
@@ -141,16 +151,6 @@
       "title": "Link Strategic AI Governance to Everyday Customer Trust | Dr Paul Dongha | NatWest",
       "description": "NatWest holds every AI system to the EU AI Act standard worldwide, even where local law does not demand it.",
       "publishedAt": "2026-09-17",
-      "guestName": "",
-      "guestRole": "",
-      "duration": "",
-      "season": null
-    },
-    {
-      "videoId": "PiBuyqVzI9g",
-      "title": "context as a field",
-      "description": "Context is a badly overused word in AI. Dhiraj Rajaram, founder and CEO of Mu Sigma, fixes it with a physics analogy: content is like mass, the data you can touch and feel, and context is like energy, the field you canno",
-      "publishedAt": "2026-09-16",
       "guestName": "",
       "guestRole": "",
       "duration": "",
