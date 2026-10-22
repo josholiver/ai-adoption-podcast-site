@@ -4,8 +4,28 @@
     "handle": "@aiadoption-conversations",
     "channelId": "UCvhxwtr4EYjAI5Oct2zy4Kg"
   },
-  "updatedAt": "2026-10-21T11:21:41.607Z",
+  "updatedAt": "2026-10-22T11:21:29.981Z",
   "episodes": [
+    {
+      "videoId": "MVbcbCyhvPU",
+      "title": "Natural language questions need a governed interface behind them.",
+      "description": "Dino Ravnić, Co-founder and CEO of GIS Cloud, argues that AI can open complex GIS tools to non-specialists only if the interface between AI and end users is controlled and set up properly, so a GIS manager can see each p",
+      "publishedAt": "2026-10-22",
+      "guestName": "",
+      "guestRole": "",
+      "duration": "",
+      "season": null
+    },
+    {
+      "videoId": "gPDKOd3R-Mw",
+      "title": "Leaders Who Do Not Value Data Slow AI Adoption",
+      "description": "Leadership teams can explain how they make money, but not their data architecture says Claire Thompson, Chief Data Analytics Officer for the Corporate Bank at Barclays. She joins The AI Adoption Podcast and makes the cas",
+      "publishedAt": "2026-10-22",
+      "guestName": "",
+      "guestRole": "",
+      "duration": "",
+      "season": null
+    },
     {
       "videoId": "u8jJ6zx3KaQ",
       "title": "Location decides which repair comes first.",
@@ -131,26 +151,6 @@
       "title": "AI governance fails without AI literacy beneath it.",
       "description": "AI governance fails without AI literacy beneath it.",
       "publishedAt": "2026-09-22",
-      "guestName": "",
-      "guestRole": "",
-      "duration": "",
-      "season": null
-    },
-    {
-      "videoId": "YafUgDrJo_M",
-      "title": "AI can build customer trust or destroy it.",
-      "description": "AI can build customer trust or destroy it.",
-      "publishedAt": "2026-09-21",
-      "guestName": "",
-      "guestRole": "",
-      "duration": "",
-      "season": null
-    },
-    {
-      "videoId": "LuRPt7c11-g",
-      "title": "Link Strategic AI Governance to Everyday Customer Trust | Dr Paul Dongha | NatWest",
-      "description": "NatWest holds every AI system to the EU AI Act standard worldwide, even where local law does not demand it.",
-      "publishedAt": "2026-09-17",
       "guestName": "",
       "guestRole": "",
       "duration": "",
