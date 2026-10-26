@@ -4,8 +4,28 @@
     "handle": "@aiadoption-conversations",
     "channelId": "UCvhxwtr4EYjAI5Oct2zy4Kg"
   },
-  "updatedAt": "2026-10-25T10:56:59.139Z",
+  "updatedAt": "2026-10-26T12:27:51.987Z",
   "episodes": [
+    {
+      "videoId": "cvAOD5C80FA",
+      "title": "Define the value first, then ask whether AI is the answer.",
+      "description": "Claire Thompson of Barclays makes the case that AI is not always the right solution. Start with the outcome you are trying to achieve, then weigh AI against automation and traditional AI. A short test for any AI proposal",
+      "publishedAt": "2026-10-26",
+      "guestName": "",
+      "guestRole": "",
+      "duration": "",
+      "season": null
+    },
+    {
+      "videoId": "xQEHycYimD8",
+      "title": "Directing AI agents asks employees for confidence and scepticism at once.",
+      "description": "Ericson Chan of Zurich Insurance Group explains the shift from using AI as a tool to directing semi autonomous agents. Employees must delegate, verify, intervene when needed and keep responsibility. In Part Two of our co",
+      "publishedAt": "2026-10-25",
+      "guestName": "",
+      "guestRole": "",
+      "duration": "",
+      "season": null
+    },
     {
       "videoId": "eRhsXVAaQGI",
       "title": "Boards that wait for AI to become predictable will act too late.",
@@ -131,26 +151,6 @@
       "title": "Zurich Insurance Is Building One AI Strategy Across Rival Regions (Part 1)",
       "description": "AI is global, and the US, China and Europe are each building it for a different objective. On this AI Adoption Podcast episode, Ericson Chan of Zurich Insurance Group sets out a global AI strategy that holds across three",
       "publishedAt": "2026-10-01",
-      "guestName": "",
-      "guestRole": "",
-      "duration": "",
-      "season": null
-    },
-    {
-      "videoId": "rTQb2NDlqR4",
-      "title": "Risk tiering is the foundation of AI governance.",
-      "description": "Paul Dongha of NatWest Group explains how risk professionals assess a use of AI by impact and likelihood, name the weaknesses, from data leaks to hallucinations, and decide what controls to apply. The tier sets the stren",
-      "publishedAt": "2026-09-24",
-      "guestName": "",
-      "guestRole": "",
-      "duration": "",
-      "season": null
-    },
-    {
-      "videoId": "W-4zPBJ0tfc",
-      "title": "Branch staff who never use AI still need AI training.",
-      "description": "Paul Dongha of NatWest Group explains why colleagues in branches, dealing directly with customers, need to understand AI fundamentals and risks. When a customer raises AI, the colleague should be able to explain how the ",
-      "publishedAt": "2026-09-23",
       "guestName": "",
       "guestRole": "",
       "duration": "",
