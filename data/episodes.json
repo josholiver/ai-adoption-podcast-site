@@ -4,8 +4,28 @@
     "handle": "@aiadoption-conversations",
     "channelId": "UCvhxwtr4EYjAI5Oct2zy4Kg"
   },
-  "updatedAt": "2026-10-27T11:46:18.486Z",
+  "updatedAt": "2026-10-28T12:20:03.889Z",
   "episodes": [
+    {
+      "videoId": "xjFdZfzXHLE",
+      "title": "Leadership teams can explain their revenue. Their data architecture, less so.",
+      "description": "Claire Thompson, Chief Data Analytics Officer for the Corporate Bank at Barclays, argues that organisations succeeding with AI have people at the leadership table who understand AI, data and technology. Data architecture",
+      "publishedAt": "2026-10-28",
+      "guestName": "",
+      "guestRole": "",
+      "duration": "",
+      "season": null
+    },
+    {
+      "videoId": "Rde4PFGTQqg",
+      "title": "Senior leaders using AI themselves turn theory into practice.",
+      "description": "Claire Thompson, Chief Data Analytics Officer for the Corporate Bank at Barclays, makes the case for role modelling as a core part of AI adoption. Leaders who share their own use make the change real for their teams.",
+      "publishedAt": "2026-10-27",
+      "guestName": "",
+      "guestRole": "",
+      "duration": "",
+      "season": null
+    },
     {
       "videoId": "cvAOD5C80FA",
       "title": "Define the value first, then ask whether AI is the answer.",
@@ -131,26 +151,6 @@
       "title": "AI in policing should augment officers, not replace them",
       "description": "Dylan Alldridge, Deputy Director at PoliceAI, sets out the conditions: officers and staff who are skilled, trained and told the reason for each change, with the public in mind from the start. Adoption across 43 police fo",
       "publishedAt": "2026-10-05",
-      "guestName": "",
-      "guestRole": "",
-      "duration": "",
-      "season": null
-    },
-    {
-      "videoId": "TTp_STGQ2TE",
-      "title": "43 Police Forces, One AI Mission and Little Power to Mandate",
-      "description": "Proving AI works in one police force is not the hard bit.",
-      "publishedAt": "2026-10-05",
-      "guestName": "",
-      "guestRole": "",
-      "duration": "",
-      "season": null
-    },
-    {
-      "videoId": "14csbu6lXpo",
-      "title": "Zurich Insurance Is Building One AI Strategy Across Rival Regions (Part 1)",
-      "description": "AI is global, and the US, China and Europe are each building it for a different objective. On this AI Adoption Podcast episode, Ericson Chan of Zurich Insurance Group sets out a global AI strategy that holds across three",
-      "publishedAt": "2026-10-01",
       "guestName": "",
       "guestRole": "",
       "duration": "",
