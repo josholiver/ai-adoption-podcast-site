@@ -4,8 +4,28 @@
     "handle": "@aiadoption-conversations",
     "channelId": "UCvhxwtr4EYjAI5Oct2zy4Kg"
   },
-  "updatedAt": "2026-10-28T12:20:03.889Z",
+  "updatedAt": "2026-10-29T12:29:14.556Z",
   "episodes": [
+    {
+      "videoId": "G61au_ssJeY",
+      "title": "Three routes bring AI into an organisation, says Claire Thompson.",
+      "description": "Claire, Chief Data Analytics Officer for the Corporate Bank at Barclays, separates personal productivity tools, AI built into vendor applications, and bespoke internal models. Governing them as one category misses the di",
+      "publishedAt": "2026-10-29",
+      "guestName": "",
+      "guestRole": "",
+      "duration": "",
+      "season": null
+    },
+    {
+      "videoId": "7wlsovOs4-k",
+      "title": "AI tokens feel like monopoly money, but the bills are real",
+      "description": "AI tokens are like monopoly money, but agents in core operations still have to be paid for. Dimitris Perdikou of Version 1 joins The AI Adoption Podcast on agentic AI, tokenomics and the cost of teams of people and AI ag",
+      "publishedAt": "2026-10-29",
+      "guestName": "",
+      "guestRole": "",
+      "duration": "",
+      "season": null
+    },
     {
       "videoId": "xjFdZfzXHLE",
       "title": "Leadership teams can explain their revenue. Their data architecture, less so.",
@@ -131,26 +151,6 @@
       "title": "Police AI aims to free six million hours, not to make redundancies",
       "description": "Dylan Alldridge, Deputy Director at PoliceAI, explains the target in the Police Reform White Paper: around six million hours, or 3,000 full time equivalent roles. He frames it as unlocking capacity and returning time to ",
       "publishedAt": "2026-10-07",
-      "guestName": "",
-      "guestRole": "",
-      "duration": "",
-      "season": null
-    },
-    {
-      "videoId": "BUx1khcJdRo",
-      "title": "Scaling police AI takes a whole system approach, not technology alone",
-      "description": "Dylan Alldridge, Deputy Director at PoliceAI, explains that transformational AI must land in an environment ready for it, in its culture, its data and its technology. The end user has to shape the work from the conceptio",
-      "publishedAt": "2026-10-06",
-      "guestName": "",
-      "guestRole": "",
-      "duration": "",
-      "season": null
-    },
-    {
-      "videoId": "mHE5c5CX12A",
-      "title": "AI in policing should augment officers, not replace them",
-      "description": "Dylan Alldridge, Deputy Director at PoliceAI, sets out the conditions: officers and staff who are skilled, trained and told the reason for each change, with the public in mind from the start. Adoption across 43 police fo",
-      "publishedAt": "2026-10-05",
       "guestName": "",
       "guestRole": "",
       "duration": "",
