@@ -4,8 +4,18 @@
     "handle": "@aiadoption-conversations",
     "channelId": "UCvhxwtr4EYjAI5Oct2zy4Kg"
   },
-  "updatedAt": "2026-11-04T13:56:11.737Z",
+  "updatedAt": "2026-11-05T14:13:27.949Z",
   "episodes": [
+    {
+      "videoId": "icqQ61FgfG8",
+      "title": "AI Literacy Is Not AI Fluency",
+      "description": "Asked whether it would advise a white man differently, Claude said it would.",
+      "publishedAt": "2026-11-05",
+      "guestName": "",
+      "guestRole": "",
+      "duration": "",
+      "season": null
+    },
     {
       "videoId": "G61au_ssJeY",
       "title": "Three routes bring AI into an organisation, says Claire Thompson.",
@@ -141,16 +151,6 @@
       "title": "AI Agents Overlaid On Fragmented Processes Create Digital Clutter, Not Value",
       "description": "AI agents laid over fragmented processes produce digital clutter, says Ericson Chan of Zurich Insurance Group. Part Two of this AI Adoption Podcast conversation covers agentic AI governance, ROAI and the future of work.",
       "publishedAt": "2026-10-08",
-      "guestName": "",
-      "guestRole": "",
-      "duration": "",
-      "season": null
-    },
-    {
-      "videoId": "jtwImYzggEk",
-      "title": "Police AI aims to free six million hours, not to make redundancies",
-      "description": "Dylan Alldridge, Deputy Director at PoliceAI, explains the target in the Police Reform White Paper: around six million hours, or 3,000 full time equivalent roles. He frames it as unlocking capacity and returning time to ",
-      "publishedAt": "2026-10-07",
       "guestName": "",
       "guestRole": "",
       "duration": "",
