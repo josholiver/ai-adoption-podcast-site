@@ -4,8 +4,28 @@
     "handle": "@aiadoption-conversations",
     "channelId": "UCvhxwtr4EYjAI5Oct2zy4Kg"
   },
-  "updatedAt": "2026-11-11T13:45:14.268Z",
+  "updatedAt": "2026-11-12T14:48:15.466Z",
   "episodes": [
+    {
+      "videoId": "cTCrytkI5PU",
+      "title": "Beyond agentic AI is the internet of networked agents",
+      "description": "Safe AI models will not make AI safe, argues Ramesh Raskar of @MITMediaLab on The AI Adoption Podcast. AI agents, edge AI and the internet of AI agents change where control and value sit.",
+      "publishedAt": "2026-11-12",
+      "guestName": "",
+      "guestRole": "",
+      "duration": "",
+      "season": null
+    },
+    {
+      "videoId": "DtH8qzzx1oM",
+      "title": "AI literacy and AI fluency are not the same thing.",
+      "description": "Leah-Sunshine Garrett of Dawn Intelligence uses a French menu to explain the difference. On The AI Adoption Podcast she argues that literacy is not fluency with language models, and that education has to close the gap.",
+      "publishedAt": "2026-11-11",
+      "guestName": "",
+      "guestRole": "",
+      "duration": "",
+      "season": null
+    },
     {
       "videoId": "LMNDTNegvKw",
       "title": "AI automation saves time; the harder question is where it goes.",
@@ -131,16 +151,6 @@
       "title": "Leaders Who Do Not Value Data Slow AI Adoption",
       "description": "Leadership teams can explain how they make money, but not their data architecture says Claire Thompson, Chief Data Analytics Officer for the Corporate Bank at Barclays. She joins The AI Adoption Podcast and makes the cas",
       "publishedAt": "2026-10-22",
-      "guestName": "",
-      "guestRole": "",
-      "duration": "",
-      "season": null
-    },
-    {
-      "videoId": "u8jJ6zx3KaQ",
-      "title": "Location decides which repair comes first.",
-      "description": "Dino Ravnić, Co-founder and CEO of GIS Cloud, explains repair prioritisation by proximity: hydrants and other infrastructure ranked by closeness to schools, hospitals and homes for elderly people, and by how many people ",
-      "publishedAt": "2026-10-21",
       "guestName": "",
       "guestRole": "",
       "duration": "",
