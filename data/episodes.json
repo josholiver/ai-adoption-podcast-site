@@ -4,8 +4,18 @@
     "handle": "@aiadoption-conversations",
     "channelId": "UCvhxwtr4EYjAI5Oct2zy4Kg"
   },
-  "updatedAt": "2026-11-17T15:39:54.559Z",
+  "updatedAt": "2026-11-18T15:17:42.661Z",
   "episodes": [
+    {
+      "videoId": "AZ1VyLzfUZI",
+      "title": "Digital labour needs managing, and business schools are not teaching it yet.",
+      "description": "Ramesh Raskar of MIT Media Lab on The AI Adoption Podcast: creating agents costs little, so the constraint moves to managing them inside the human agent loop. He expects business schools built around managing agent digit",
+      "publishedAt": "2026-11-18",
+      "guestName": "",
+      "guestRole": "",
+      "duration": "",
+      "season": null
+    },
     {
       "videoId": "qa8LAQpemnQ",
       "title": "AI agents dominate the news, but rarely reach production.",
@@ -141,16 +151,6 @@
       "title": "Senior leaders using AI themselves turn theory into practice.",
       "description": "Claire Thompson, Chief Data Analytics Officer for the Corporate Bank at Barclays, makes the case for role modelling as a core part of AI adoption. Leaders who share their own use make the change real for their teams.",
       "publishedAt": "2026-10-27",
-      "guestName": "",
-      "guestRole": "",
-      "duration": "",
-      "season": null
-    },
-    {
-      "videoId": "cvAOD5C80FA",
-      "title": "Define the value first, then ask whether AI is the answer.",
-      "description": "Claire Thompson of Barclays makes the case that AI is not always the right solution. Start with the outcome you are trying to achieve, then weigh AI against automation and traditional AI. A short test for any AI proposal",
-      "publishedAt": "2026-10-26",
       "guestName": "",
       "guestRole": "",
       "duration": "",
